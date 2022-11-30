@@ -1,9 +1,5 @@
 # Hotels Challenge
 
-
-# Namen aplikacije
-Aplikacija bi bila v pomoč vsem športnikom, ki svoje aktivnosti izvajajo na prostem in na različnih lokacijah. Za vsako svojo aktivnost si bo uporabnik shranil podatke kot so zemljevid, kje je aktivnost potekala, kakšen tip na aktivnost je bila, kako zahtevna, koliko je ustrezna lokacija za ta sport, pripombe,oceno in podobno.
-
 # Languages
 Java, XML
 
