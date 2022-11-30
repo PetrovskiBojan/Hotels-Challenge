@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "330270860882",
+    "project_id": "hotel-reviews-c0a08",
+    "storage_bucket": "hotel-reviews-c0a08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330270860882:android:04f01ce5ad664e18a4a18b",
+        "android_client_info": {
+          "package_name": "com.example.hotelchallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330270860882-7cgv8dq7jlqit8dvougp30jgne14s9pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4fLqA6Zoi9UkbwP9fmYeuus5gXgbTlxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330270860882-7cgv8dq7jlqit8dvougp30jgne14s9pt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
